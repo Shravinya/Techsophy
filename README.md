@@ -1,7 +1,6 @@
 # EHR Data Quality Auditor
 
-> Electronic Health Record (EHR) data quality assessment system with Pydantic validation and CSV dataset support.
-
+> Electronic Health Record (EHR) data quality assessment system with Pydantic validation.
 ## Features
 
 - **Pydantic Models** for robust data validation
