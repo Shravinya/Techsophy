@@ -10,17 +10,6 @@
 - **Comprehensive Quality Metrics** (completeness, consistency, accuracy)
 
 
-
-## Usage Example
-
-```python
-from ehr_quality_auditor import EHRPathTester
-
-# Initialize and run test
-tester = EHRPathTester()
-tester.run_test("ehr_test_data.csv")
-```
-
 ## Key Components
 
 - **Data Validation**: Automatic type checking and range validation
